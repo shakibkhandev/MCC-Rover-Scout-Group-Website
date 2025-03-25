@@ -1,6 +1,271 @@
 {
     "HomePage": {
-      "title": "Hello world!",
-      "about": "Go to the about page"
+      "web_name": "MCC Rover Scout",
+      "hero_image":"https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/480838916_1070703551764021_2641674794967367825_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wnQQ9XsVY2AQ7kNvgHTXlpI&_nc_zt=23&_nc_ht=scontent.fdac24-3.fna&_nc_gid=5oVuuHTjss_mZ_j2U3lnaQ&oh=00_AYEnDuCQIZzVN6XstGJoSp3hAVnzuCuy55HB9j_ornKXdw&oe=67E75DBA",
+      "hero_details": "Creating transformative learning experiences for young people, everywhere.",
+      "hero_button":"Scout Movement",
+      "meta_title":"MCC Rover Scout | A Leading Rover Group in Bangladesh",
+      "about_us_section":{
+        "headerTitle":"About Us",
+        "headerDescription":"Learn more about our mission and values",
+        "about_us_image":"https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/484326947_1997578387680776_3436796070677619452_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MunKoMuB9p8Q7kNvgHReh76&_nc_zt=23&_nc_ht=scontent.fdac24-4.fna&_nc_gid=h4Li6woJ8sUImyWRSKnxgA&oh=00_AYHHyOj1wanyC7zaGVYCfGnwD7W8Bqbe8Ph0A4ULcsblTQ&oe=67E75FDD",
+        "our_mission":{
+        "title" : "Our Mission",
+        "description":"To help young people achieve their full physical, intellectual, emotional, social and spiritual potentials as individuals, as responsible citizens and as members of their local, national and international communities.",
+        "values" : {
+          "title":"Our Values",
+          "options":[
+            "Duty to God and Country",
+            "Duty to Self",
+            "Community Service",
+            "Duty to Others",
+            "Leadership Development"
+          ]
+        }
+      }
+      },
+      "navItems": [
+        {
+          "id": "statistics",
+          "label": "Stats"
+        },
+        {
+          "id": "members",
+          "label": "Members"
+        },
+        {
+          "id": "activities",
+          "label": "Activities"
+        },
+        {
+          "id": "about_us",
+          "label": "About Us"
+        },
+        {
+          "id": "achievements",
+          "label": "Achievements"
+        },
+        {
+          "id": "upcoming_events",
+          "label": "Upcoming Events"
+        }
+      ],
+      "footer": {
+        "description": "Empowering young people to create positive change in their communities through leadership, service, and adventure.",
+        "address": "Tilagorh, Sylhet, Bangladesh",
+        "phone": "+880 1712-345678",
+        "email": "mccrsg@gmail.com",
+        "facebook":"https://www.facebook.com/mccrsgs",
+        "instagram":"",
+        "quick_links" : "Quick Links",
+        "contact_us" : "Contact Us",
+        "follow_us" : "Follow Us",
+        "privacy_policy":"Privacy Policy",
+        "year":"2025",
+        "terms_of_service":"Terms of Service",
+        "cookie_policy":"Cookie Policy",
+        "all_rights":"All rights reserved"
+      },
+      "achievements" : {
+        "header_title":"Achievements",
+        "header_description":"Celebrating the success and impact of our Rover Scout members",
+        "data":[]
+      },
+      "upcoming_events_data": {
+        "header_title":"Upcoming Events",
+        "header_description":"Join us for exciting upcoming events and activities",
+        "data":[]
+      },
+      "members": {
+        "header_title":"Our Members",
+        "header_description":"Meet our dedicated team of scouts and leaders",
+        "members_with_position": [
+    {
+      "id": 1,
+      "title": "Group President",
+      "data": [
+        {
+          "id": 1,
+          "name": "Abdul Karim Chowdhury",
+          "role": "Group President",
+          "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Abdul",
+          "joinDate": "Jan 2020",
+          "leaveDate": "Present",
+          "contact": "+880 1711-223344"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Scout Leaders",
+      "data": [
+        {
+          "id": 2,
+          "name": "Sayed Ahmed",
+          "role": "Senior Scout Leader",
+          "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Sayed",
+          "joinDate": "Mar 2021",
+          "leaveDate": "Present",
+          "contact": "+880 1733-445566"
+        },
+        {
+          "id": 3,
+          "name": "Fatima Begum",
+          "role": "Scout Leader",
+          "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Fatima",
+          "joinDate": "Jun 2022",
+          "leaveDate": "Present",
+          "contact": "+880 1744-556677"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Present Crew Council",
+      "data": [
+        {
+          "id": 4,
+          "name": "Rahim Uddin",
+          "role": "Council Leader",
+          "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Rahim",
+          "joinDate": "Feb 2023",
+          "leaveDate": "Present",
+          "contact": "+880 1722-334455"
+        },
+        {
+          "id": 5,
+          "name": "Ayesha Siddika",
+          "role": "Council Secretary",
+          "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Ayesha",
+          "joinDate": "Apr 2023",
+          "leaveDate": "Present",
+          "contact": "+880 1755-667788"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "SRMs",
+      "data": [
+        {
+          "id": 6,
+          "name": "Kamal Hossain",
+          "role": "Senior Rover Mate",
+          "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Kamal",
+          "joinDate": "Aug 2022",
+          "leaveDate": "Present",
+          "contact": "+880 1715-778899"
+        },
+        {
+          "id": 7,
+          "name": "Nasrin Akter",
+          "role": "Rover Mate",
+          "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Nasrin",
+          "joinDate": "Oct 2023",
+          "leaveDate": "Present",
+          "contact": "+880 1766-889900"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Members",
+      "data": [
+        {
+          "id": 8,
+          "name": "Jamil Ahmed",
+          "role": "Rover Scout",
+          "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Jamil",
+          "joinDate": "Jan 2024",
+          "leaveDate": "Present",
+          "contact": "+880 1733-990011"
+        },
+        {
+          "id": 9,
+          "name": "Sabina Yasmin",
+          "role": "Rover Scout",
+          "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Sabina",
+          "joinDate": "Mar 2024",
+          "leaveDate": "Present",
+          "contact": "+880 1744-112233"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Previous Members",
+      "data": [
+        {
+          "id": 10,
+          "name": "Moinul Islam",
+          "role": "Scout Leader",
+          "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Moinul",
+          "joinDate": "Feb 2019",
+          "leaveDate": "Dec 2022",
+          "contact": "+880 1712-334455"
+        },
+        {
+          "id": 11,
+          "name": "Ruksana Begum",
+          "role": "Assistant Scout Leader",
+          "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Ruksana",
+          "joinDate": "May 2020",
+          "leaveDate": "Aug 2023",
+          "contact": "+880 1723-445566"
+        }
+      ]
+    }
+  ]
+},
+      "activities" : {
+        "header_title":"Rover Scout Activities",
+        "header_description":"Rover Scout Activities",
+        "data":[
+        {
+          "id":1,
+          "title": "Barbecue Party",
+          "description": "Organized by the members of the Rover Scout Group.",
+          "image_url":"https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/484924903_1089298009904575_8467677124176675472_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cpdXrUGrGmMQ7kNvgGj3jRx&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=wR__FuuAi7O29nCMusy_ag&oh=00_AYEGlwE-pQYJbBWGtYRlXuWrnSiZE84IQiqQKaUouObTHw&oe=67E768AF",
+          "date":"18/01/2025, Saturday",
+          "location":"Arts Building",
+          "participants": "20+"
+        },
+        {
+          "id":2,
+          "title": "Nature Observation: Cox's Bazar Sea Beach",
+          "description": "Murarichand College Rover Scout Group organized an outing with a total of 52 people, including the college principal, the Rover Scout Group secretary, RSL members, and Rover members.",
+          "image_url":"https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/485133444_1089371966563846_3421312751002064465_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Gj6K2AUgRFoQ7kNvgFHhiRi&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=dj1PeQse8qHmYJtXekNr_g&oh=00_AYEpuynBixgm8S0WNK0E3EaZ4E44unkjt_ssCmqZSg9zMg&oe=67E76027",
+          "date":"7-9 February, 2025",
+          "location":"Arts Building",
+          "participants": "50+"
+        },
+        {
+          "id":3,
+          "title": "International Mother Language Day",
+          "description": "Murarichand College Rover Scout Group paid humble tribute to the language martyrs by offering respects and salutations at the Shaheed Minar (Martyrs' Monument).",
+          "image_url":"https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/485964948_1092484049585971_8687952133170232168_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GJiN5_uxNd8Q7kNvgFPPa2u&_nc_zt=23&_nc_ht=scontent.fdac24-3.fna&_nc_gid=Jp_gVIB8DGLvTwebDfyU8w&oh=00_AYHwo7phmjy4ET5i3ejULfLPgqsx_MqnAZgHv4I-7eZ1Ig&oe=67E74260",
+          "date":"21 Feb 2025",
+          "location":"Shahid Minar, MC College",
+          "participants": "20+"
+        },
+        {
+          "id":4,
+          "title": "National Comodeca",
+          "description": "Two units of Murarichand College Rover Scout Group participated in the 7th National COMDECA organized by Bangladesh Scouts at Hard Point on the char (river island) of the Jamuna River in Sirajganj (February 19-25). Ms. Shahnaz Begum, Assistant Professor of Botany at Murarichand College, Sylhet, and a Wood Badger, served as the GRSL (Girl-in-Rover Scout Leader) for the Girl-in-Rover unit. Mr. Ustar Ali, the Physical Education teacher at Murarichand College, Sylhet, served as the RSL (Rover Scout Leader) for the Rover unit. A total of 16 Rover members, 8 from each unit, participated in the COMDECA.",
+          "image_url":"https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/480838916_1070703551764021_2641674794967367825_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wnQQ9XsVY2AQ7kNvgHTXlpI&_nc_zt=23&_nc_ht=scontent.fdac24-3.fna&_nc_gid=5oVuuHTjss_mZ_j2U3lnaQ&oh=00_AYEQRCNWvRwjAmcM9ny2hKfENJniOZmtm3TNi9pd6JcWVQ&oe=67E75DBA",
+          "date":"18 Feb - 25  Feb",
+          "location":"Sirajgonj",
+          "participants": "20"
+        },
+        {
+          "id":5,
+          "title": "Iftar Mahfil",
+          "description": "Alhamdulillah, after several years, an Iftar mahfil (fast-breaking gathering) was organized at Murarichand College Rover Scout Group. The Principal of the college, Professor Abul Anam Md. Riaz Sir, was present at the event. A wonderful moment was created with the gathering of RSL members and former and current Rover members during the Iftar mahfil.",
+          "image_url":"https://scontent.fzyl6-1.fna.fbcdn.net/v/t39.30808-6/486063949_1092725836228459_778670053839828355_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BxXIGav1CEEQ7kNvgFqO0Bb&_nc_zt=23&_nc_ht=scontent.fzyl6-1.fna&_nc_gid=lZv5Bv8B3MmpENki_Ylpgg&oh=00_AYGZpK0i-DSAXQN5nYW2CcECWaXa8XduDQSut8iQbgqELQ&oe=67E7FDB9",
+          "date":"21 Ramadan, March 22, 2025 AD",
+          "location":"Arts Building",
+          "participants": "20+"
+        }
+      ]}
     }
   }

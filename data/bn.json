@@ -1,6 +1,262 @@
 {
   "HomePage": {
-    "title": "Tata",
-    "about": "Go to the about page"
+    "web_name": "এমসিসি রোভার স্কাউট",
+    "hero_image": "https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/480838916_1070703551764021_2641674794967367825_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wnQQ9XsVY2AQ7kNvgHTXlpI&_nc_zt=23&_nc_ht=scontent.fdac24-3.fna&_nc_gid=5oVuuHTjss_mZ_j2U3lnaQ&oh=00_AYEnDuCQIZzVN6XstGJoSp3hAVnzuCuy55HB9j_ornKXdw&oe=67E75DBA",
+    "hero_details": "তরুণদের জন্য সর্বত্র রূপান্তরকারী শিক্ষার অভিজ্ঞতা সৃষ্টি করা।",
+    "hero_button": "স্কাউট আন্দোলন",
+    "meta_title": "এমসিসি রোভার স্কাউট | বাংলাদেশের একটি শীর্ষস্থানীয় রোভার গ্রুপ",
+    "about_us_section": {
+      "headerTitle": "আমাদের সম্পর্কে",
+      "headerDescription": "আমাদের লক্ষ্য এবং মূল্যবোধ সম্পর্কে আরও জানুন",
+      "about_us_image": "https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/484326947_1997578387680776_3436796070677619452_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MunKoMuB9p8Q7kNvgHReh76&_nc_zt=23&_nc_ht=scontent.fdac24-4.fna&_nc_gid=h4Li6woJ8sUImyWRSKnxgA&oh=00_AYHHyOj1wanyC7zaGVYCfGnwD7W8Bqbe8Ph0A4ULcsblTQ&oe=67E75FDD",
+      "our_mission": {
+        "title": "আমাদের লক্ষ্য",
+        "description": "তরুণদের তাদের শারীরিক, বুদ্ধিবৃত্তিক, আবেগীয়, সামাজিক এবং আধ্যাত্মিক সম্ভাবনা পূর্ণভাবে অর্জনে সহায়তা করা, যাতে তারা ব্যক্তি হিসেবে, দায়িত্বশীল নাগরিক হিসেবে এবং তাদের স্থানীয়, জাতীয় ও আন্তর্জাতিক সম্প্রদায়ের সদস্য হিসেবে উন্নতি করতে পারে।",
+        "values": {
+          "title": "আমাদের মূল্যবোধ",
+          "options": [
+            "ঈশ্বর ও দেশের প্রতি কর্তব্য",
+            "নিজের প্রতি কর্তব্য",
+            "সম্প্রদায় সেবা",
+            "অন্যদের প্রতি কর্তব্য",
+            "নেতৃত্ব উন্নয়ন"
+          ]
+        }
+      }
+    },
+    "navItems": [
+      {
+        "id": "statistics",
+        "label": "পরিসংখ্যান"
+      },
+      {
+        "id": "members",
+        "label": "সদস্য"
+      },
+      {
+        "id": "activities",
+        "label": "কার্যক্রম"
+      },
+      {
+        "id": "about_us",
+        "label": "আমাদের সম্পর্কে"
+      },
+      {
+        "id": "achievements",
+        "label": "অর্জন"
+      },
+      {
+        "id": "upcoming_events",
+        "label": "আগামী ইভেন্ট"
+      }
+    ],
+    "footer": {
+      "description": "নেতৃত্ব, সেবা এবং অ্যাডভেঞ্চারের মাধ্যমে তরুণদের তাদের সম্প্রদায়ে ইতিবাচক পরিবর্তন সৃষ্টি করতে ক্ষমতায়ন করা।",
+      "address": "তিলাগড়, সিলেট, বাংলাদেশ",
+      "phone": "+৮৮০ ১৭১২-৩৪৫৬৭৮",
+      "email": "mccrsg@gmail.com",
+      "facebook": "https://www.facebook.com/mccrsgs",
+      "instagram": "",
+      "quick_links": "দ্রুত লিঙ্ক",
+      "contact_us": "যোগাযোগ করুন",
+      "follow_us": "আমাদের অনুসরণ করুন",
+      "privacy_policy": "গোপনীয়তা নীতি",
+      "year": "২০২৫",
+      "terms_of_service": "সেবার শর্তাবলী",
+      "cookie_policy": "কুকি নীতি",
+      "all_rights": "সর্বস্বত্ব সংরক্ষিত"
+    },
+    "members": {
+      "header_title": "আমাদের সদস্য",
+      "header_description": "আমাদের নিবেদিত স্কাউট এবং নেতৃবৃন্দের দলের সাথে পরিচিত হন",
+      "members_with_position": [
+        {
+          "id": 1,
+          "title": "গ্রুপ প্রেসিডেন্ট",
+          "data": [
+            {
+              "id": 1,
+              "name": "আব্দুল করিম চৌধুরী",
+              "role": "গ্রুপ প্রেসিডেন্ট",
+              "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Abdul",
+              "joinDate": "জানুয়ারি ২০২০",
+              "leaveDate": "বর্তমান",
+              "contact": "+৮৮০ ১৭১১-২২৩৩৪৪"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "স্কাউট নেতৃবৃন্দ",
+          "data": [
+            {
+              "id": 2,
+              "name": "সৈয়দ আহমেদ",
+              "role": "সিনিয়র স্কাউট লিডার",
+              "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Sayed",
+              "joinDate": "মার্চ ২০২১",
+              "leaveDate": "বর্তমান",
+              "contact": "+৮৮০ ১৭৩৩-৪৪৫৫৬৬"
+            },
+            {
+              "id": 3,
+              "name": "ফাতিমা বেগম",
+              "role": "স্কাউট লিডার",
+              "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Fatima",
+              "joinDate": "জুন ২০২২",
+              "leaveDate": "বর্তমান",
+              "contact": "+৮৮০ ১৭৪৪-৫৫৬৬৭৭"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "বর্তমান ক্রু কাউন্সিল",
+          "data": [
+            {
+              "id": 4,
+              "name": "রহিম উদ্দিন",
+              "role": "কাউন্সিল লিডার",
+              "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Rahim",
+              "joinDate": "ফেব্রুয়ারি ২০২৩",
+              "leaveDate": "বর্তমান",
+              "contact": "+৮৮০ ১৭২২-৩৩৪৪৫৫"
+            },
+            {
+              "id": 5,
+              "name": "আয়েশা সিদ্দিকা",
+              "role": "কাউন্সিল সেক্রেটারি",
+              "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Ayesha",
+              "joinDate": "এপ্রিল ২০২৩",
+              "leaveDate": "বর্তমান",
+              "contact": "+৮৮০ ১৭৫৫-৬৬৭৭৮৮"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "এসআরএম",
+          "data": [
+            {
+              "id": 6,
+              "name": "কামাল হোসেন",
+              "role": "সিনিয়র রোভার মেট",
+              "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Kamal",
+              "joinDate": "আগস্ট ২০২২",
+              "leaveDate": "বর্তমান",
+              "contact": "+৮৮০ ১৭১৫-৭৭৮৮৯৯"
+            },
+            {
+              "id": 7,
+              "name": "নাসরিন আক্তার",
+              "role": "রোভার মেট",
+              "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Nasrin",
+              "joinDate": "অক্টোবর ২০২৩",
+              "leaveDate": "বর্তমান",
+              "contact": "+৮৮০ ১৭৬৬-৮৮৯৯০০"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "সদস্য",
+          "data": [
+            {
+              "id": 8,
+              "name": "জামিল আহমেদ",
+              "role": "রোভার স্কাউট",
+              "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Jamil",
+              "joinDate": "জানুয়ারি ২০২৪",
+              "leaveDate": "বর্তমান",
+              "contact": "+৮৮০ ১৭৩৩-৯৯০০১১"
+            },
+            {
+              "id": 9,
+              "name": "সাবিনা ইয়াসমিন",
+              "role": "রোভার স্কাউট",
+              "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Sabina",
+              "joinDate": "মার্চ ২০২৪",
+              "leaveDate": "বর্তমান",
+              "contact": "+৮৮০ ১৭৪৪-১১২২৩৩"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "পূর্ববর্তী সদস্য",
+          "data": [
+            {
+              "id": 10,
+              "name": "মঈনুল ইসলাম",
+              "role": "স্কাউট লিডার",
+              "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Moinul",
+              "joinDate": "ফেব্রুয়ারি ২০১৯",
+              "leaveDate": "ডিসেম্বর ২০২২",
+              "contact": "+৮৮০ ১৭১২-৩৩৪৪৫৫"
+            },
+            {
+              "id": 11,
+              "name": "রোকসানা বেগম",
+              "role": "সহকারী স্কাউট লিডার",
+              "image": "https://dummyimage.com/300x300/2563eb/ffffff.jpg&text=Ruksana",
+              "joinDate": "মে ২০২০",
+              "leaveDate": "আগস্ট ২০২৩",
+              "contact": "+৮৮০ ১৭২৩-৪৪৫৫৬৬"
+            }
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "header_title": "রোভার স্কাউট কার্যক্রম",
+      "header_description": "রোভার স্কাউট কার্যক্রম",
+      "data": [
+        {
+          "id": 1,
+          "title": "বারবিকিউ পার্টি",
+          "description": "রোভার স্কাউট গ্রুপের সদস্যদের দ্বারা আয়োজিত।",
+          "image_url": "https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/484924903_1089298009904575_8467677124176675472_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cpdXrUGrGmMQ7kNvgGj3jRx&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=wR__FuuAi7O29nCMusy_ag&oh=00_AYEGlwE-pQYJbBWGtYRlXuWrnSiZE84IQiqQKaUouObTHw&oe=67E768AF",
+          "date": "১৮/০১/২০২৫, শনিবার",
+          "location": "আর্টস ভবন",
+          "participants": "২০+"
+        },
+        {
+          "id": 2,
+          "title": "প্রকৃতি পর্যবেক্ষণ: কক্সবাজার সমুদ্র সৈকত",
+          "description": "মুরারিচাঁদ কলেজ রোভার স্কাউট গ্রুপ মোট ৫২ জনের একটি আউটিং আয়োজন করেছিল, যার মধ্যে কলেজের প্রিন্সিপাল, রোভার স্কাউট গ্রুপ সেক্রেটারি, আরএসএল সদস্য এবং রোভার সদস্যরা ছিলেন।",
+          "image_url": "https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/485133444_1089371966563846_3421312751002064465_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Gj6K2AUgRFoQ7kNvgFHhiRi&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=dj1PeQse8qHmYJtXekNr_g&oh=00_AYEpuynBixgm8S0WNK0E3EaZ4E44unkjt_ssCmqZSg9zMg&oe=67E76027",
+          "date": "৭-৯ ফেব্রুয়ারি, ২০২৫",
+          "location": "আর্টস ভবন",
+          "participants": "৫০+"
+        },
+        {
+          "id": 3,
+          "title": "আন্তর্জাতিক মাতৃভাষা দিবস",
+          "description": "মুরারিচাঁদ কলেজ রোভার স্কাউট গ্রুপ শহীদ মিনারে (শহীদ স্মৃতিস্তম্ভ) সম্মান ও সালাম জানিয়ে ভাষা শহীদদের প্রতি শ্রদ্ধা নিবেদন করেছে।",
+          "image_url": "https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/485964948_1092484049585971_8687952133170232168_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GJiN5_uxNd8Q7kNvgFPPa2u&_nc_zt=23&_nc_ht=scontent.fdac24-3.fna&_nc_gid=Jp_gVIB8DGLvTwebDfyU8w&oh=00_AYHwo7phmjy4ET5i3ejULfLPgqsx_MqnAZgHv4I-7eZ1Ig&oe=67E74260",
+          "date": "২১ ফেব্রুয়ারি ২০২৫",
+          "location": "শহীদ মিনার, এমসি কলেজ",
+          "participants": "২০+"
+        },
+        {
+          "id": 4,
+          "title": "জাতীয় কমডেকা",
+          "description": "মুরারিচাঁদ কলেজ রোভার স্কাউট গ্রুপের দুটি ইউনিট বাংলাদেশ স্কাউটস কর্তৃক আয়োজিত ৭ম জাতীয় কমডেকায় অংশগ্রহণ করেছিল, যা সিরাজগঞ্জের যমুনা নদীর চরে হার্ড পয়েন্টে (১৯-২৫ ফেব্রুয়ারি) অনুষ্ঠিত হয়েছিল। মুরারিচাঁদ কলেজ, সিলেটের উদ্ভিদবিজ্ঞানের সহকারী অধ্যাপক এবং উড ব্যাজার মিস শাহনাজ বেগম গার্ল-ইন-রোভার ইউনিটের জিআরএসএল (গার্ল-ইন-রোভার স্কাউট লিডার) হিসেবে দায়িত্ব পালন করেছিলেন। মুরারিচাঁদ কলেজ, সিলেটের শারীরশিক্ষার শিক্ষক জনাব উস্তার আলী রোভার ইউনিটের আরএসএল (রোভার স্কাউট লিডার) হিসেবে দায়িত্ব পালন করেছিলেন। মোট ১৬ জন রোভার সদস্য, প্রতি ইউনিট থেকে ৮ জন করে, কমডেকায় অংশগ্রহণ করেছিলেন।",
+          "image_url": "https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/480838916_1070703551764021_2641674794967367825_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wnQQ9XsVY2AQ7kNvgHTXlpI&_nc_zt=23&_nc_ht=scontent.fdac24-3.fna&_nc_gid=5oVuuHTjss_mZ_j2U3lnaQ&oh=00_AYEQRCNWvRwjAmcM9ny2hKfENJniOZmtm3TNi9pd6JcWVQ&oe=67E75DBA",
+          "date": "১৮ ফেব্রুয়ারি - ২৫ ফেব্রুয়ারি",
+          "location": "সিরাজগঞ্জ",
+          "participants": "২০"
+        },
+        {
+          "id": 5,
+          "title": "ইফতার মাহফিল",
+          "description": "আলহামদুলিল্লাহ, কয়েক বছর পর মুরারিচাঁদ কলেজ রোভার স্কাউট গ্রুপে একটি ইফতার মাহফিল (রোজা ভাঙার সমাবেশ) আয়োজিত হয়েছিল। কলেজের প্রিন্সিপাল প্রফেসর আবুল আনাম মো. রিয়াজ স্যার এই অনুষ্ঠানে উপস্থিত ছিলেন। ইফতার মাহফিলে আরএসএল সদস্য এবং প্রাক্তন ও বর্তমান রোভার সদস্যদের সমাগমে একটি চমৎকার মুহূর্ত সৃষ্টি হয়েছিল।",
+          "image_url": "https://scontent.fzyl6-1.fna.fbcdn.net/v/t39.30808-6/486063949_1092725836228459_778670053839828355_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BxXIGav1CEEQ7kNvgFqO0Bb&_nc_zt=23&_nc_ht=scontent.fzyl6-1.fna&_nc_gid=lZv5Bv8B3MmpENki_Ylpgg&oh=00_AYGZpK0i-DSAXQN5nYW2CcECWaXa8XduDQSut8iQbgqELQ&oe=67E7FDB9",
+          "date": "২১ রমজান, ২২ মার্চ ২০২৫ খ্রিস্টাব্দ",
+          "location": "আর্টস ভবন",
+          "participants": "২০+"
+        }
+      ]
+    }
   }
 }

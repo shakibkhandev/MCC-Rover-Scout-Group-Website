@@ -11,6 +11,7 @@ interface GlobalContextProps {
   isDarkMode: boolean;
   toggleTheme: () => void;
   toggleLang: () => void;
+  locale: string;
 }
 
 const GlobalContext = React.createContext<GlobalContextProps | null>(null);
@@ -56,7 +57,7 @@ export const GlobalContextProvider: React.FC<GlobalProviderProps> = ({
   }, []);
 
   return (
-    <GlobalContext.Provider value={{ isDarkMode, toggleTheme, toggleLang }}>
+    <GlobalContext.Provider value={{ isDarkMode, toggleTheme, toggleLang, locale }}>
       {children}
     </GlobalContext.Provider>
   );
